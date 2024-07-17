@@ -1,7 +1,7 @@
 
 ## Shell Basics
 
-### 1. Common Shell Commands
+### Common Shell Commands
 
 #### `ls` - List directory contents
 - **Theory**: Lists files and directories in the current directory.
